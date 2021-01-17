@@ -1,0 +1,52 @@
+.images {
+    width: 450px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#eb3467 0%, #457aff 100%)
+}
+
+#span1 {
+    margin-right: 300px;
+    font-size: 20;
+    font-family: fantasy;
+}
+
+#span2 {
+    font-size: 20;
+    font-family: fantasy;
+}
+
+#Catimg {
+    margin-right: 50px;
+    height: 250px;
+}
+
+#image3 {
+    margin-right: 100px;
+    width: 400px;
+    height: 300px;
+}
+
+#image4 {
+    margin-left: 20px;
+    width: 450px;
+    height: 300px;
+}
+
+#h {
+    margin-right: 325px;
+    font-size: 20;
+    font-family: fantasy;
+}
+
+#lu {
+    margin-left: 0px;
+    font-size: 20;
+    font-family: fantasy;
+}
+
+h1 {
+    font-family: sans-serif;
+}
